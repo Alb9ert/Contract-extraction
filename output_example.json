@@ -1,0 +1,1134 @@
+{
+    "Lejekontrakt test A.pdf": {
+        "pg1-1": {
+            "question": "Lejemålsnummer",
+            "answer": "1422141"
+        },
+        "pg1-3": {
+            "question": "andet",
+            "answer": null
+        },
+        "pg1-4": {
+            "question": "Lejeforholdet er et fremlejeforhold",
+            "answer": "/Off"
+        },
+        "pg1-5": {
+            "question": "Beliggende",
+            "answer": "Århusgade"
+        },
+        "pg1-6": {
+            "question": "By",
+            "answer": "København"
+        },
+        "pg1-7": {
+            "question": "Udlejeren: Navn",
+            "answer": "Albert Hansen"
+        },
+        "pg1-8": {
+            "question": "Udlejeren: CVR-nr./reg.nr",
+            "answer": "1241241241"
+        },
+        "pg1-9": {
+            "question": "Udlejeren: Adresse",
+            "answer": "Århusgade 10"
+        },
+        "pg1-10": {
+            "question": "Udlejeren: Telefon",
+            "answer": "+4558585858"
+        },
+        "pg1-11": {
+            "question": "Udlejeren: E-mail",
+            "answer": "albert@test.com"
+        },
+        "pg1-12": {
+            "question": "Lejeren: Navn ",
+            "answer": "Ulla"
+        },
+        "pg1-13": {
+            "question": "Lejeren: Adresse",
+            "answer": "Randersgade 10"
+        },
+        "pg1-14": {
+            "question": "Lejeren: Telefon",
+            "answer": "+4594494949"
+        },
+        "pg1-15": {
+            "question": "Lejeren: E-mail",
+            "answer": "ulla@test.com"
+        },
+        "pg1-16": {
+            "question": "Lejemålets samlede bruttoetageareal",
+            "answer": "45"
+        },
+        "pg1-17": {
+            "question": "Antal værelser",
+            "answer": "3"
+        },
+        "pg1-18": {
+            "question": "Erhvervslokaler m.v. udgør",
+            "answer": "2"
+        },
+        "pg1-19": {
+            "question": "Fællesvaskeri",
+            "answer": "/On"
+        },
+        "pg1-20": {
+            "question": "Fælles gårdanlæg",
+            "answer": null
+        },
+        "pg1-21": {
+            "question": "Loft-/kælderrum nr",
+            "answer": null
+        },
+        "pg1-22": {
+            "question": "Loftkælderrum nr",
+            "answer": null
+        },
+        "pg1-23": {
+            "question": "Cykelparkering",
+            "answer": null
+        },
+        "pg1-24": {
+            "question": "Garage nr",
+            "answer": null
+        },
+        "pg1-25": {
+            "question": "Garage nr",
+            "answer": null
+        },
+        "pg1-26": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg1-27": {
+            "question": "Andet 1 beskrivelse",
+            "answer": null
+        },
+        "pg1-28": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg1-29": {
+            "question": "Andet 2 beskrivelse",
+            "answer": null
+        },
+        "pg1-30": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg1-2": {
+            "question": "Det lejede er",
+            "answer": "/et enkeltvÊrelse"
+        },
+        "pg1-31": {
+            "question": "Andet 3, beskrivelse",
+            "answer": null
+        },
+        "pg1-32": {
+            "question": "Det lejede må ikke uden udlejerens skriftlige samtykke benyttes til andet end",
+            "answer": "dette"
+        },
+        "pg2-1": {
+            "question": "Lejemålet begynder dato, dd-mm-åååå",
+            "answer": "3/5/2026"
+        },
+        "pg2-2": {
+            "question": "Årlig leje",
+            "answer": "42.300"
+        },
+        "pg2-3": {
+            "question": "Lejen m.v. forfalder til betaling den",
+            "answer": "33333"
+        },
+        "pg2-4": {
+            "question": "Betaling",
+            "answer": null
+        },
+        "pg2-5": {
+            "question": "Leje per periode",
+            "answer": "35000"
+        },
+        "pg2-6": {
+            "question": "A conto varmebidrag",
+            "answer": "100"
+        },
+        "pg2-7": {
+            "question": "A conto vandbidrag",
+            "answer": "200"
+        },
+        "pg2-8": {
+            "question": "A conto elbidrag",
+            "answer": "0"
+        },
+        "pg2-9": {
+            "question": "A conto kølingsbidrag",
+            "answer": "10"
+        },
+        "pg2-10": {
+            "question": "Antennebidrag",
+            "answer": "200"
+        },
+        "pg2-11": {
+            "question": "Internetbidrag",
+            "answer": "200"
+        },
+        "pg2-12": {
+            "question": "Bidrag til beboerrepræsentation",
+            "answer": "200"
+        },
+        "pg2-13": {
+            "question": "Andet 1, beskrivelse",
+            "answer": null
+        },
+        "pg2-14": {
+            "question": "Andet 1, beløb",
+            "answer": null
+        },
+        "pg2-15": {
+            "question": "Andet 2, beskrivelse",
+            "answer": null
+        },
+        "pg2-16": {
+            "question": "Andet 1, beløb",
+            "answer": null
+        },
+        "pg2-17": {
+            "question": "I alt at betale per periode",
+            "answer": "3000"
+        },
+        "pg2-18": {
+            "question": "llejen indgår skatter og afgifter pr., dd-mm-åååå",
+            "answer": "6/5/2025"
+        },
+        "pg2-21": {
+            "question": "Kontonummer",
+            "answer": "1231231231"
+        },
+        "pg2-22": {
+            "question": "Pengeinstitut",
+            "answer": null
+        },
+        "pg2-19": {
+            "question": "Betalingssted",
+            "answer": "/Lejen mv betales på udlejerens kontonr"
+        },
+        "pg2-23": {
+            "question": "depositum, betalingsfrist, dd-mm-åååå",
+            "answer": "7/7/2026"
+        },
+        "pg2-24": {
+            "question": "depositum, beløb",
+            "answer": "30000"
+        },
+        "pg2-25": {
+            "question": "depositum, svarer til måneders leje",
+            "answer": "3"
+        },
+        "pg2-26": {
+            "question": "forudbetalt leje, betalingsfrist, dd-mm-åååå",
+            "answer": "5/5/2026"
+        },
+        "pg2-27": {
+            "question": "betaler lejeren endvidere forudbetalt leje på",
+            "answer": "40000"
+        },
+        "pg2-28": {
+            "question": "forudbetalt leje, antal måneder",
+            "answer": "5"
+        },
+        "pg2-29": {
+            "question": "Første betaling, frist, dd-mm-åååå",
+            "answer": "10/10/2026"
+        },
+        "pg2-30": {
+            "question": "Første betaling, beløb",
+            "answer": "2000"
+        },
+        "pg2-31": {
+            "question": "Forudbetalt leje, kr",
+            "answer": "333"
+        },
+        "pg2-32": {
+            "question": "Lejebetaling, fra, dd-mm-åååå",
+            "answer": "30"
+        },
+        "pg2-33": {
+            "question": "Lejebetaling, til, dd-mm-åååå",
+            "answer": "5"
+        },
+        "pg2-34": {
+            "question": "Lejebetaling, til",
+            "answer": "3333"
+        },
+        "pg2-35": {
+            "question": "Depositum, kr",
+            "answer": "3333"
+        },
+        "pg2-36": {
+            "question": "Ekstrabeløb 1, beskrivelse",
+            "answer": "5000"
+        },
+        "pg2-37": {
+            "question": "Ekstrabeløb 1, beløb",
+            "answer": "333"
+        },
+        "pg2-38": {
+            "question": "Ekstrabeløb 2, beskrivelse",
+            "answer": "2000"
+        },
+        "pg2-39": {
+            "question": "Ekstrabeløb 2, beløb",
+            "answer": "3333"
+        },
+        "pg2-40": {
+            "question": "Ekstrabeløb 3, beskrivelse",
+            "answer": null
+        },
+        "pg2-41": {
+            "question": "Ekstrabeløb 3, beløb",
+            "answer": "3333"
+        },
+        "pg2-42": {
+            "question": "Beløb i alt",
+            "answer": "333"
+        },
+        "pg2-43": {
+            "question": "Dato for første følgende huslejebetaling, dd-mm-åååå",
+            "answer": "30000"
+        },
+        "pg3-1": {
+            "question": "Udl ejeren leverer varme og varmt vand? (sæt x)",
+            "answer": null
+        },
+        "pg3-2": {
+            "question": "Fjernvarme/naturgas",
+            "answer": "/On"
+        },
+        "pg3-3": {
+            "question": "Centralvarme med olie",
+            "answer": "/Off"
+        },
+        "pg3-4": {
+            "question": "El til opvarmning",
+            "answer": null
+        },
+        "pg3-5": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg3-6": {
+            "question": "Anden opvarmning, udlejer",
+            "answer": null
+        },
+        "pg3-8": {
+            "question": "Varmeregnskabsåret begynder den",
+            "answer": null
+        },
+        "pg3-7": {
+            "question": "Varmeopkrævning ",
+            "answer": null
+        },
+        "pg3-9": {
+            "question": "Lejeren sørger selv for opvarmning af lejemålet? (sæt x)",
+            "answer": null
+        },
+        "pg3-10": {
+            "question": "El",
+            "answer": null
+        },
+        "pg3-11": {
+            "question": "Gas",
+            "answer": "/On"
+        },
+        "pg3-12": {
+            "question": "Olie/petroleum",
+            "answer": "/On"
+        },
+        "pg3-13": {
+            "question": "Fjernvarme/naturgas",
+            "answer": null
+        },
+        "pg3-14": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg3-15": {
+            "question": "Anden opvarmning, lejer",
+            "answer": null
+        },
+        "pg3-16": {
+            "question": "Udlejeren leverer vand til lejemålet? (sæt x)",
+            "answer": null
+        },
+        "pg3-18": {
+            "question": "Vandregnskabsåret begynder den",
+            "answer": null
+        },
+        "pg3-20": {
+            "question": "Udlejeren leverer el til andet end varme til lejemålet? (sæt x)",
+            "answer": null
+        },
+        "pg3-22": {
+            "question": "Elregnskabsåret begynder den",
+            "answer": null
+        },
+        "pg3-21": {
+            "question": "Hvis ja",
+            "answer": "/Udgiften til el fordeles ikke på grundlag af individuelle forbrugsmålere og indeholdes derfor i lejen."
+        },
+        "pg3-23": {
+            "question": "Udlejeren leverer køling til lejemålet? (sæt x)",
+            "answer": "/Ja"
+        },
+        "pg3-24": {
+            "question": "Hvis ja, udgiften til køling fordeles på grundlag af individuelle forbrugsmålere? (sæt x)",
+            "answer": "/Nej"
+        },
+        "pg3-25": {
+            "question": "Kølingsregnskabsåret begynder den",
+            "answer": null
+        },
+        "pg3-26": {
+            "question": "Udlejeren leverer fælles signalforsyning, hvortil lejer skal betale bidrag (sæt x)",
+            "answer": "/Ja"
+        },
+        "pg3-27": {
+            "question": "Lejernes antenneforening i ejendommen leverer fælles signalforsyning (sæt x)",
+            "answer": "/Nej"
+        },
+        "pg3-28": {
+            "question": "Udlejeren leverer adgang til internet (elektroniske kommunikationstjenester), hvortil lejeren skal betale bidrag (sæt x)",
+            "answer": "/Ja"
+        },
+        "pg3-29": {
+            "question": "Udlejer udlejeren mere end én beboelseslejlighed?",
+            "answer": "/Ja"
+        },
+        "pg3-30": {
+            "question": "Er/bliver lejemålets stand konstateret ved indflytningssyn?",
+            "answer": "/Ja"
+        },
+        "pg3-31": {
+            "question": "Bliver lejemålets stand konstateret ved et fraflytningssyn?",
+            "answer": "/Ja"
+        },
+        "pg4-1": {
+            "question": "Den indvendige vedligeholdelse af lejemålet påhviler : (sæt x)",
+            "answer": "/Udlejeren"
+        },
+        "pg4-2": {
+            "question": "indvendig vedligeholdelse. Ved kontraktens oprettelse den, dd-mm-åååå",
+            "answer": null
+        },
+        "pg4-3": {
+            "question": "står der",
+            "answer": null
+        },
+        "pg4-4": {
+            "question": "Komfur",
+            "answer": "/On"
+        },
+        "pg4-5": {
+            "question": "Køle-/fryseskab",
+            "answer": null
+        },
+        "pg4-6": {
+            "question": "Tørretumbler",
+            "answer": null
+        },
+        "pg4-7": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg4-8": {
+            "question": "Inventar 1, beskrivelse",
+            "answer": null
+        },
+        "pg4-9": {
+            "question": "Køleskab",
+            "answer": null
+        },
+        "pg4-10": {
+            "question": "Opvaskemaskine",
+            "answer": "/On"
+        },
+        "pg4-11": {
+            "question": "Emhætte",
+            "answer": null
+        },
+        "pg4-12": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg4-13": {
+            "question": "Inventar 2, beskrivelse",
+            "answer": null
+        },
+        "pg4-14": {
+            "question": "Fryser",
+            "answer": null
+        },
+        "pg4-15": {
+            "question": "Vaskemaskine",
+            "answer": null
+        },
+        "pg4-16": {
+            "question": "Vaskemaskine/Tørretumbler",
+            "answer": null
+        },
+        "pg4-17": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg4-18": {
+            "question": "Inventar 3, beskrivelse",
+            "answer": null
+        },
+        "pg4-21": {
+            "question": "Særlige vilkår for husdyrtilladelsen",
+            "answer": null
+        },
+        "pg4-23": {
+            "question": "Øvrige oplysninger om det lejede",
+            "answer": null
+        },
+        "pg4-19": {
+            "question": "Der er ved kontraktens oprettelse etableret beboerrepræsentation i ejendommen? (sæt x)",
+            "answer": "/Nej"
+        },
+        "pg4-22": {
+            "question": "Der foreligger ved lejeforholdets indgåelse en husorden for ejendommen? (sæt x)",
+            "answer": "/Ja"
+        },
+        "pg5-1": {
+            "question": "Øvrige oplysninger om det lejede, fortsat",
+            "answer": null
+        },
+        "pg5-3": {
+            "question": "Hvis ja, hvilken grund gør sig gældende, jf. lejelovens § 54 (for nærmere herom se vejledningen)",
+            "answer": null
+        },
+        "pg5-5": {
+            "question": "Hver den",
+            "answer": null
+        },
+        "pg5-6": {
+            "question": "reguleres den gældende leje med stigningen i nettoprisindekset fra ",
+            "answer": null
+        },
+        "pg5-7": {
+            "question": "måned året før til den",
+            "answer": null
+        },
+        "pg5-8": {
+            "question": "Lejen reguleres første gang den, dd-mm-åååå",
+            "answer": null
+        },
+        "pg5-2": {
+            "question": "Lejefastsættelse: Lejeforholdet er omfattet af reglerne om fri leje",
+            "answer": null
+        },
+        "pg5-4": {
+            "question": "Lejeforhøjelse kan gennemføres alene ved udlejerens skriftlige meddelelse herom til lejeren.",
+            "answer": null
+        },
+        "pg6-1": {
+            "question": "Øvrige fravigelser",
+            "answer": null
+        },
+        "pg7-1": {
+            "question": "Øvrige fravigelser, fortsat",
+            "answer": null
+        },
+        "pg7-3": {
+            "question": "Dato, dd-mm-åååå",
+            "answer": null
+        },
+        "pg7-2": {
+            "question": "Dato, dd-mm-åååå",
+            "answer": null
+        },
+        "pg2-20": {
+            "question": "Reg.nr",
+            "answer": "12312"
+        },
+        "pg4-20": {
+            "question": "Det er tilladt at holde husdyr i lejemålet? (sæt x)",
+            "answer": "/Ja"
+        },
+        "pg1-2a": {
+            "question": "Det lejede er",
+            "answer": "/en andelsbolig"
+        },
+        "pg3-17": {
+            "question": "Hvis ja",
+            "answer": "/Udgiften til el fordeles ikke på grundlag af individuelle forbrugsmålere og indeholdes derfor i lejen."
+        }
+    },
+    "Lejekontrakt test B.pdf": {
+        "pg1-1": {
+            "question": "Lejemålsnummer",
+            "answer": "1422141"
+        },
+        "pg1-3": {
+            "question": "andet",
+            "answer": null
+        },
+        "pg1-4": {
+            "question": "Lejeforholdet er et fremlejeforhold",
+            "answer": "/Off"
+        },
+        "pg1-5": {
+            "question": "Beliggende",
+            "answer": "Århusgade"
+        },
+        "pg1-6": {
+            "question": "By",
+            "answer": "København"
+        },
+        "pg1-7": {
+            "question": "Udlejeren: Navn",
+            "answer": "Albert Hansen"
+        },
+        "pg1-8": {
+            "question": "Udlejeren: CVR-nr./reg.nr",
+            "answer": "1241241241"
+        },
+        "pg1-9": {
+            "question": "Udlejeren: Adresse",
+            "answer": "Århusgade 10"
+        },
+        "pg1-10": {
+            "question": "Udlejeren: Telefon",
+            "answer": "+4558585858"
+        },
+        "pg1-11": {
+            "question": "Udlejeren: E-mail",
+            "answer": "albert@test.com"
+        },
+        "pg1-12": {
+            "question": "Lejeren: Navn ",
+            "answer": "Ulla"
+        },
+        "pg1-13": {
+            "question": "Lejeren: Adresse",
+            "answer": "Randersgade 10"
+        },
+        "pg1-14": {
+            "question": "Lejeren: Telefon",
+            "answer": "+4594494949"
+        },
+        "pg1-15": {
+            "question": "Lejeren: E-mail",
+            "answer": "ulla@test.com"
+        },
+        "pg1-16": {
+            "question": "Lejemålets samlede bruttoetageareal",
+            "answer": "45"
+        },
+        "pg1-17": {
+            "question": "Antal værelser",
+            "answer": "3"
+        },
+        "pg1-18": {
+            "question": "Erhvervslokaler m.v. udgør",
+            "answer": "2"
+        },
+        "pg1-19": {
+            "question": "Fællesvaskeri",
+            "answer": "/On"
+        },
+        "pg1-20": {
+            "question": "Fælles gårdanlæg",
+            "answer": null
+        },
+        "pg1-21": {
+            "question": "Loft-/kælderrum nr",
+            "answer": null
+        },
+        "pg1-22": {
+            "question": "Loftkælderrum nr",
+            "answer": null
+        },
+        "pg1-23": {
+            "question": "Cykelparkering",
+            "answer": null
+        },
+        "pg1-24": {
+            "question": "Garage nr",
+            "answer": null
+        },
+        "pg1-25": {
+            "question": "Garage nr",
+            "answer": null
+        },
+        "pg1-26": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg1-27": {
+            "question": "Andet 1 beskrivelse",
+            "answer": null
+        },
+        "pg1-28": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg1-29": {
+            "question": "Andet 2 beskrivelse",
+            "answer": null
+        },
+        "pg1-30": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg1-2": {
+            "question": "Det lejede er",
+            "answer": "/et enkeltvÊrelse"
+        },
+        "pg1-31": {
+            "question": "Andet 3, beskrivelse",
+            "answer": null
+        },
+        "pg1-32": {
+            "question": "Det lejede må ikke uden udlejerens skriftlige samtykke benyttes til andet end",
+            "answer": "dette"
+        },
+        "pg2-1": {
+            "question": "Lejemålet begynder dato, dd-mm-åååå",
+            "answer": "3/5/2026"
+        },
+        "pg2-2": {
+            "question": "Årlig leje",
+            "answer": "42.300"
+        },
+        "pg2-3": {
+            "question": "Lejen m.v. forfalder til betaling den",
+            "answer": "33333"
+        },
+        "pg2-4": {
+            "question": "Betaling",
+            "answer": null
+        },
+        "pg2-5": {
+            "question": "Leje per periode",
+            "answer": "35000"
+        },
+        "pg2-6": {
+            "question": "A conto varmebidrag",
+            "answer": "100"
+        },
+        "pg2-7": {
+            "question": "A conto vandbidrag",
+            "answer": "200"
+        },
+        "pg2-8": {
+            "question": "A conto elbidrag",
+            "answer": "0"
+        },
+        "pg2-9": {
+            "question": "A conto kølingsbidrag",
+            "answer": "10"
+        },
+        "pg2-10": {
+            "question": "Antennebidrag",
+            "answer": "200"
+        },
+        "pg2-11": {
+            "question": "Internetbidrag",
+            "answer": "200"
+        },
+        "pg2-12": {
+            "question": "Bidrag til beboerrepræsentation",
+            "answer": "200"
+        },
+        "pg2-13": {
+            "question": "Andet 1, beskrivelse",
+            "answer": null
+        },
+        "pg2-14": {
+            "question": "Andet 1, beløb",
+            "answer": null
+        },
+        "pg2-15": {
+            "question": "Andet 2, beskrivelse",
+            "answer": null
+        },
+        "pg2-16": {
+            "question": "Andet 1, beløb",
+            "answer": null
+        },
+        "pg2-17": {
+            "question": "I alt at betale per periode",
+            "answer": "3000"
+        },
+        "pg2-18": {
+            "question": "llejen indgår skatter og afgifter pr., dd-mm-åååå",
+            "answer": "6/5/2025"
+        },
+        "pg2-21": {
+            "question": "Kontonummer",
+            "answer": "1231231231"
+        },
+        "pg2-22": {
+            "question": "Pengeinstitut",
+            "answer": null
+        },
+        "pg2-19": {
+            "question": "Betalingssted",
+            "answer": "/Lejen mv betales på udlejerens kontonr"
+        },
+        "pg2-23": {
+            "question": "depositum, betalingsfrist, dd-mm-åååå",
+            "answer": "7/7/2026"
+        },
+        "pg2-24": {
+            "question": "depositum, beløb",
+            "answer": "30000"
+        },
+        "pg2-25": {
+            "question": "depositum, svarer til måneders leje",
+            "answer": "3"
+        },
+        "pg2-26": {
+            "question": "forudbetalt leje, betalingsfrist, dd-mm-åååå",
+            "answer": "5/5/2026"
+        },
+        "pg2-27": {
+            "question": "betaler lejeren endvidere forudbetalt leje på",
+            "answer": "40000"
+        },
+        "pg2-28": {
+            "question": "forudbetalt leje, antal måneder",
+            "answer": "5"
+        },
+        "pg2-29": {
+            "question": "Første betaling, frist, dd-mm-åååå",
+            "answer": "10/10/2026"
+        },
+        "pg2-30": {
+            "question": "Første betaling, beløb",
+            "answer": "2000"
+        },
+        "pg2-31": {
+            "question": "Forudbetalt leje, kr",
+            "answer": "333"
+        },
+        "pg2-32": {
+            "question": "Lejebetaling, fra, dd-mm-åååå",
+            "answer": "30"
+        },
+        "pg2-33": {
+            "question": "Lejebetaling, til, dd-mm-åååå",
+            "answer": "5"
+        },
+        "pg2-34": {
+            "question": "Lejebetaling, til",
+            "answer": "3333"
+        },
+        "pg2-35": {
+            "question": "Depositum, kr",
+            "answer": "3333"
+        },
+        "pg2-36": {
+            "question": "Ekstrabeløb 1, beskrivelse",
+            "answer": "5000"
+        },
+        "pg2-37": {
+            "question": "Ekstrabeløb 1, beløb",
+            "answer": "333"
+        },
+        "pg2-38": {
+            "question": "Ekstrabeløb 2, beskrivelse",
+            "answer": "2000"
+        },
+        "pg2-39": {
+            "question": "Ekstrabeløb 2, beløb",
+            "answer": "3333"
+        },
+        "pg2-40": {
+            "question": "Ekstrabeløb 3, beskrivelse",
+            "answer": null
+        },
+        "pg2-41": {
+            "question": "Ekstrabeløb 3, beløb",
+            "answer": "3333"
+        },
+        "pg2-42": {
+            "question": "Beløb i alt",
+            "answer": "333"
+        },
+        "pg2-43": {
+            "question": "Dato for første følgende huslejebetaling, dd-mm-åååå",
+            "answer": "30000"
+        },
+        "pg3-1": {
+            "question": "Udl ejeren leverer varme og varmt vand? (sæt x)",
+            "answer": null
+        },
+        "pg3-2": {
+            "question": "Fjernvarme/naturgas",
+            "answer": "/On"
+        },
+        "pg3-3": {
+            "question": "Centralvarme med olie",
+            "answer": "/Off"
+        },
+        "pg3-4": {
+            "question": "El til opvarmning",
+            "answer": null
+        },
+        "pg3-5": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg3-6": {
+            "question": "Anden opvarmning, udlejer",
+            "answer": null
+        },
+        "pg3-8": {
+            "question": "Varmeregnskabsåret begynder den",
+            "answer": null
+        },
+        "pg3-7": {
+            "question": "Varmeopkrævning ",
+            "answer": null
+        },
+        "pg3-9": {
+            "question": "Lejeren sørger selv for opvarmning af lejemålet? (sæt x)",
+            "answer": null
+        },
+        "pg3-10": {
+            "question": "El",
+            "answer": null
+        },
+        "pg3-11": {
+            "question": "Gas",
+            "answer": "/On"
+        },
+        "pg3-12": {
+            "question": "Olie/petroleum",
+            "answer": "/On"
+        },
+        "pg3-13": {
+            "question": "Fjernvarme/naturgas",
+            "answer": null
+        },
+        "pg3-14": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg3-15": {
+            "question": "Anden opvarmning, lejer",
+            "answer": null
+        },
+        "pg3-16": {
+            "question": "Udlejeren leverer vand til lejemålet? (sæt x)",
+            "answer": null
+        },
+        "pg3-18": {
+            "question": "Vandregnskabsåret begynder den",
+            "answer": null
+        },
+        "pg3-20": {
+            "question": "Udlejeren leverer el til andet end varme til lejemålet? (sæt x)",
+            "answer": null
+        },
+        "pg3-22": {
+            "question": "Elregnskabsåret begynder den",
+            "answer": null
+        },
+        "pg3-21": {
+            "question": "Hvis ja",
+            "answer": "/Udgiften til el fordeles ikke på grundlag af individuelle forbrugsmålere og indeholdes derfor i lejen."
+        },
+        "pg3-23": {
+            "question": "Udlejeren leverer køling til lejemålet? (sæt x)",
+            "answer": "/Ja"
+        },
+        "pg3-24": {
+            "question": "Hvis ja, udgiften til køling fordeles på grundlag af individuelle forbrugsmålere? (sæt x)",
+            "answer": "/Nej"
+        },
+        "pg3-25": {
+            "question": "Kølingsregnskabsåret begynder den",
+            "answer": null
+        },
+        "pg3-26": {
+            "question": "Udlejeren leverer fælles signalforsyning, hvortil lejer skal betale bidrag (sæt x)",
+            "answer": "/Ja"
+        },
+        "pg3-27": {
+            "question": "Lejernes antenneforening i ejendommen leverer fælles signalforsyning (sæt x)",
+            "answer": "/Nej"
+        },
+        "pg3-28": {
+            "question": "Udlejeren leverer adgang til internet (elektroniske kommunikationstjenester), hvortil lejeren skal betale bidrag (sæt x)",
+            "answer": "/Ja"
+        },
+        "pg3-29": {
+            "question": "Udlejer udlejeren mere end én beboelseslejlighed?",
+            "answer": "/Ja"
+        },
+        "pg3-30": {
+            "question": "Er/bliver lejemålets stand konstateret ved indflytningssyn?",
+            "answer": "/Ja"
+        },
+        "pg3-31": {
+            "question": "Bliver lejemålets stand konstateret ved et fraflytningssyn?",
+            "answer": "/Ja"
+        },
+        "pg4-1": {
+            "question": "Den indvendige vedligeholdelse af lejemålet påhviler : (sæt x)",
+            "answer": "/Udlejeren"
+        },
+        "pg4-2": {
+            "question": "indvendig vedligeholdelse. Ved kontraktens oprettelse den, dd-mm-åååå",
+            "answer": null
+        },
+        "pg4-3": {
+            "question": "står der",
+            "answer": null
+        },
+        "pg4-4": {
+            "question": "Komfur",
+            "answer": "/On"
+        },
+        "pg4-5": {
+            "question": "Køle-/fryseskab",
+            "answer": null
+        },
+        "pg4-6": {
+            "question": "Tørretumbler",
+            "answer": null
+        },
+        "pg4-7": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg4-8": {
+            "question": "Inventar 1, beskrivelse",
+            "answer": null
+        },
+        "pg4-9": {
+            "question": "Køleskab",
+            "answer": null
+        },
+        "pg4-10": {
+            "question": "Opvaskemaskine",
+            "answer": "/On"
+        },
+        "pg4-11": {
+            "question": "Emhætte",
+            "answer": null
+        },
+        "pg4-12": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg4-13": {
+            "question": "Inventar 2, beskrivelse",
+            "answer": null
+        },
+        "pg4-14": {
+            "question": "Fryser",
+            "answer": null
+        },
+        "pg4-15": {
+            "question": "Vaskemaskine",
+            "answer": null
+        },
+        "pg4-16": {
+            "question": "Vaskemaskine/Tørretumbler",
+            "answer": null
+        },
+        "pg4-17": {
+            "question": "Andet",
+            "answer": null
+        },
+        "pg4-18": {
+            "question": "Inventar 3, beskrivelse",
+            "answer": null
+        },
+        "pg4-21": {
+            "question": "Særlige vilkår for husdyrtilladelsen",
+            "answer": null
+        },
+        "pg4-23": {
+            "question": "Øvrige oplysninger om det lejede",
+            "answer": null
+        },
+        "pg4-19": {
+            "question": "Der er ved kontraktens oprettelse etableret beboerrepræsentation i ejendommen? (sæt x)",
+            "answer": "/Nej"
+        },
+        "pg4-22": {
+            "question": "Der foreligger ved lejeforholdets indgåelse en husorden for ejendommen? (sæt x)",
+            "answer": "/Ja"
+        },
+        "pg5-1": {
+            "question": "Øvrige oplysninger om det lejede, fortsat",
+            "answer": null
+        },
+        "pg5-3": {
+            "question": "Hvis ja, hvilken grund gør sig gældende, jf. lejelovens § 54 (for nærmere herom se vejledningen)",
+            "answer": null
+        },
+        "pg5-5": {
+            "question": "Hver den",
+            "answer": null
+        },
+        "pg5-6": {
+            "question": "reguleres den gældende leje med stigningen i nettoprisindekset fra ",
+            "answer": null
+        },
+        "pg5-7": {
+            "question": "måned året før til den",
+            "answer": null
+        },
+        "pg5-8": {
+            "question": "Lejen reguleres første gang den, dd-mm-åååå",
+            "answer": null
+        },
+        "pg5-2": {
+            "question": "Lejefastsættelse: Lejeforholdet er omfattet af reglerne om fri leje",
+            "answer": null
+        },
+        "pg5-4": {
+            "question": "Lejeforhøjelse kan gennemføres alene ved udlejerens skriftlige meddelelse herom til lejeren.",
+            "answer": null
+        },
+        "pg6-1": {
+            "question": "Øvrige fravigelser",
+            "answer": null
+        },
+        "pg7-1": {
+            "question": "Øvrige fravigelser, fortsat",
+            "answer": null
+        },
+        "pg7-3": {
+            "question": "Dato, dd-mm-åååå",
+            "answer": null
+        },
+        "pg7-2": {
+            "question": "Dato, dd-mm-åååå",
+            "answer": null
+        },
+        "pg2-20": {
+            "question": "Reg.nr",
+            "answer": "12312"
+        },
+        "pg4-20": {
+            "question": "Det er tilladt at holde husdyr i lejemålet? (sæt x)",
+            "answer": "/Ja"
+        },
+        "pg1-2a": {
+            "question": "Det lejede er",
+            "answer": "/en andelsbolig"
+        },
+        "pg3-17": {
+            "question": "Hvis ja",
+            "answer": "/Udgiften til el fordeles ikke på grundlag af individuelle forbrugsmålere og indeholdes derfor i lejen."
+        }
+    }
+}
