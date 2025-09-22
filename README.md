@@ -9,6 +9,7 @@ For extracting metadata from set contracts
 - pyinstaller (pip install pyinstaller (for build))
 
 ## Build
+- create 2 folders in the root directory "/contracts_to_process" and "/output"
 - run ''pyinstaller --onefile --windowed main.py''
 - Move main.exe into the root directory
 
